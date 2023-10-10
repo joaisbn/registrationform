@@ -1,0 +1,36 @@
+body {
+    background-color: #1b1b32;
+    color: #f5f6f7;
+}
+
+h1, p {
+    text-align: center;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    max-width: 600px;
+}
+
+fieldset {
+    border: none;
+}
+
+input,
+textarea,
+select {
+    margin: 0 0.5em 0 0;
+    width: 100%;
+    min-height: 2em;
+}
+
+.inline {
+    width: unset;
+    vertical-align: middle;
+}
+
+label {
+    text-align: left;
+    display: block;
+}
